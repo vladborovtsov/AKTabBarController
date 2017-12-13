@@ -1,3 +1,9 @@
+#NOTE#
+
+This component has been removed by original author. I need it because i'm working on some iOS apps that has been done long ago and i was failed to install pods. I created a repo here just in case me or someone else may need it. 
+
+
+
 #AKTabBarController
 
 AKTabBarController is an adaptive and customizable tab bar for iOS.
